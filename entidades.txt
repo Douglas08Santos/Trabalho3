@@ -1,0 +1,492 @@
+
+********* CADASTRANDO ENTIDADES *********
+------------------------------------  
+POST http://localhost:1026/v2/entities
+------------------------------------   
+
+>>> LIXEIRAS
+
+--- 1_1= "-5.835886", "-35.243458" 
+{
+    "type": "Sensor_Lixeira",
+    "id": "SensorLixeira1_1",
+    "capacidade": {
+        "type": "Number",
+        "value": 18
+    },
+    "latitude": {
+        "type": "Float",
+        "value": -5.835886
+    },
+    "longitude": {
+        "type": "Float",
+        "value": -35.243458
+    }
+}
+
+--- 1_2 = "-5.836347", "-35.244069"
+{
+    "type": "Sensor_Lixeira",
+    "id": "SensorLixeira1_2",
+    "capacidade": {
+        "type": "Number",
+        "value": 18
+    },
+    "latitude": {
+        "type": "Float",
+        "value": -5.836347
+    },
+    "longitude": {
+        "type": "Float",
+        "value": -35.244069
+    }
+}
+
+--- 1_3 = "-5.837139", "-35.243106"
+{
+    "type": "Sensor_Lixeira",
+    "id": "SensorLixeira1_3",
+    "capacidade": {
+        "type": "Number",
+        "value": 18
+    },
+    "latitude": {
+        "type": "Float",
+        "value": -5.837139
+    },
+    "longitude": {
+        "type": "Float",
+        "value": -35.243106
+    }
+}
+
+--- 1_4 ="-5.836731", "-35.243525"
+{
+    "type": "Sensor_Lixeira",
+    "id": "SensorLixeira1_4",
+    "capacidade": {
+        "type": "Number",
+        "value": 18
+    },
+    "latitude": {
+        "type": "Float",
+        "value": -5.836731
+    },
+    "longitude": {
+        "type": "Float",
+        "value": -35.243525
+    }
+}
+
+--- 1_5 = "-5.836603", "-35.242633"
+{
+    "type": "Sensor_Lixeira",
+    "id": "SensorLixeira1_5",
+    "capacidade": {
+        "type": "Number",
+        "value": 18
+    },
+    "latitude": {
+        "type": "Float",
+        "value": -5.836603
+    },
+    "longitude": {
+        "type": "Float",
+        "value": -35.242633
+    }
+}
+
+--- 2_1 = "-5.836961", "-35.244378"
+{
+    "type": "Sensor_Lixeira",
+    "id": "SensorLixeira2_1",
+    "capacidade": {
+        "type": "Number",
+        "value": 18
+    },
+    "latitude": {
+        "type": "Float",
+        "value": -5.836961
+    },
+    "longitude": {
+        "type": "Float",
+        "value": -35.244378
+    }
+}
+
+--- 2_2 = "-5.837278", "-35.244022"
+{
+    "type": "Sensor_Lixeira",
+    "id": "SensorLixeira2_2",
+    "capacidade": {
+        "type": "Number",
+        "value": 18
+    },
+    "latitude": {
+        "type": "Float",
+        "value": -5.837278
+    },
+    "longitude": {
+        "type": "Float",
+        "value": -35.244022
+    }
+}
+
+--- 2_3 = "-5.837658", "-35.243614"
+{
+    "type": "Sensor_Lixeira",
+    "id": "SensorLixeira2_3",
+    "capacidade": {
+        "type": "Number",
+        "value": 18
+    },
+    "latitude": {
+        "type": "Float",
+        "value": -5.837658
+    },
+    "longitude": {
+        "type": "Float",
+        "value": -35.243614
+    }
+}
+
+--- 2_4 = "-5.838728", "-35.244500"
+{
+    "type": "Sensor_Lixeira",
+    "id": "SensorLixeira2_4",
+    "capacidade": {
+        "type": "Number",
+        "value": 18
+    },
+    "latitude": {
+        "type": "Float",
+        "value": -5.838728
+    },
+    "longitude": {
+        "type": "Float",
+        "value": -35.244500
+    }
+}
+
+--- 2_5 = "-5.839125", "-35.244086"
+{
+    "type": "Sensor_Lixeira",
+    "id": "SensorLixeira2_5",
+    "capacidade": {
+        "type": "Number",
+        "value": 18
+    },
+    "latitude": {
+        "type": "Float",
+        "value": -5.839125
+    },
+    "longitude": {
+        "type": "Float",
+        "value": -35.244086
+    }
+}
+
+--- 2_6 = "-5.838375", "-35.243439"
+{
+    "type": "Sensor_Lixeira",
+    "id": "SensorLixeira2_6",
+    "capacidade": {
+        "type": "Number",
+        "value": 18
+    },
+    "latitude": {
+        "type": "Float",
+        "value": -5.838375
+    },
+    "longitude": {
+        "type": "Float",
+        "value": -35.243439
+    }
+}
+
+--- 2_7 = "-5.837869", "-35.244506" 
+{
+    "type": "Sensor_Lixeira",
+    "id": "SensorLixeira2_7",
+    "capacidade": {
+        "type": "Number",
+        "value": 18
+    },
+    "latitude": {
+        "type": "Float",
+        "value": -5.837869
+    },
+    "longitude": {
+        "type": "Float",
+        "value": -35.244506
+    }
+}
+
+--- 3_1 = "-5.837342", "-35.242075"
+{
+    "type": "Sensor_Lixeira",
+    "id": "SensorLixeira3_1",
+    "capacidade": {
+        "type": "Number",
+        "value": 18
+    },
+    "latitude": {
+        "type": "Float",
+        "value": -5.837342
+    },
+    "longitude": {
+        "type": "Float",
+        "value": -35.242075
+    }
+}
+
+--- 3_2 = "-5.838681", "-35.242544"
+{
+    "type": "Sensor_Lixeira",
+    "id": "SensorLixeira3_2",
+    "capacidade": {
+        "type": "Number",
+        "value": 18
+    },
+    "latitude": {
+        "type": "Float",
+        "value": -5.838681
+    },
+    "longitude": {
+        "type": "Float",
+        "value": -35.242544
+    }
+}
+--- 3_3 = "-5.839844", "-35.242286"
+{
+    "type": "Sensor_Lixeira",
+    "id": "SensorLixeira3_3",
+    "capacidade": {
+        "type": "Number",
+        "value": 18
+    },
+    "latitude": {
+        "type": "Float",
+        "value": -5.839844
+    },
+    "longitude": {
+        "type": "Float",
+        "value": -35.242286
+    }
+}
+
+--- 3_4 = "-5.840294", "-35.241900"
+{
+    "type": "Sensor_Lixeira",
+    "id": "SensorLixeira3_4",
+    "capacidade": {
+        "type": "Number",
+        "value": 18
+    },
+    "latitude": {
+        "type": "Float",
+        "value": -5.840294
+    },
+    "longitude": {
+        "type": "Float",
+        "value": -35.241900
+    }
+}
+
+--- 3_5 = "-5.839019", "-35.243228"
+{
+    "type": "Sensor_Lixeira",
+    "id": "SensorLixeira3_5",
+    "capacidade": {
+        "type": "Number",
+        "value": 18
+    },
+    "latitude": {
+        "type": "Float",
+        "value": -5.839019
+    },
+    "longitude": {
+        "type": "Float",
+        "value": -35.243228
+    }
+}
+
+--- 3_6 = "-5.839711", "-35.242983"
+{
+    "type": "Sensor_Lixeira",
+    "id": "SensorLixeira3_6",
+    "capacidade": {
+        "type": "Number",
+        "value": 18
+    },
+    "latitude": {
+        "type": "Float",
+        "value": -5.839711
+    },
+    "longitude": {
+        "type": "Float",
+        "value": -35.242983
+    }
+}
+
+--- 3_7 = "-5.837561", "-35.242675" 
+{
+    "type": "Sensor_Lixeira",
+    "id": "SensorLixeira3_7",
+    "capacidade": {
+        "type": "Number",
+        "value": 18
+    },
+    "latitude": {
+        "type": "Float",
+        "value": -5.837561
+    },
+    "longitude": {
+        "type": "Float",
+        "value": -35.242675
+    }
+}
+
+--- 3_8 = "-5.838111", "-35.242353" 
+{
+    "type": "Sensor_Lixeira",
+    "id": "SensorLixeira3_8",
+    "capacidade": {
+        "type": "Number",
+        "value": 18
+    },
+    "latitude": {
+        "type": "Float",
+        "value": -5.838111
+    },
+    "longitude": {
+        "type": "Float",
+        "value": -35.242353
+    }
+}
+
+
+>>> CAMINHÕES 
+
+--- C1 = -5.835942, -35.243506
+{
+    "type": "Caminhao",
+    "id": "Caminhao1",
+    "latitude": {
+        "type": "Float",
+        "value": -5.835942
+    },
+    "longitude": {
+        "type": "Float",
+        "value": -35.243506
+    }
+}
+
+--- C2 = -5.838322, -35.244931
+{
+    "type": "Caminhao",
+    "id": "Caminhao2",    
+    "latitude": {
+        "type": "Float",
+        "value": -5.838322
+    },
+    "longitude": {
+        "type": "Float",
+        "value": -35.244931
+    }
+}
+
+
+--- C3 = -5.838742, -35.242092
+{
+    "type": "Caminhao",
+    "id": "Caminhao3",
+    "latitude": {
+        "type": "Float",
+        "value": -5.838742
+    },
+    "longitude": {
+        "type": "Float",
+        "value": -35.242092
+    }
+}
+
+********* Subscrições *********
+------------------------------------ 
+POST http://localhost:1026/v2/subscriptions
+------------------------------------
+>>> Subscrição1
+{
+    "subject": {
+        "entities": [{
+            "idPattern": "SensorLixeira1.*"
+        }],
+        "condition": {
+            "attrs": ["capacidade"],
+            "expression": {
+                "q": "capacidade > 80"
+            }
+        }
+    },
+    "notification": {
+        "http": {
+            "url": "http://<seu_ip>:8080/Subscribe/subscribe"
+        }
+    }
+}
+
+>>> Subscrição2
+
+{
+    "subject": {
+        "entities": [{
+            "idPattern": "SensorLixeira2.*"
+        }],
+        "condition": {
+            "attrs": ["capacidade"],
+            "expression": {
+                "q": "capacidade > 80"
+            }
+        }
+    },
+    "notification": {
+        "http": {
+            "url": "http://<seu_ip>:8080/Subscribe/subscribe"
+        }
+    }
+}
+
+>>> Subscrição3
+
+{
+    "subject": {
+        "entities": [{
+            "idPattern": "SensorLixeira3.*"
+        }],
+        "condition": {
+            "attrs": ["capacidade"],
+            "expression": {
+                "q": "capacidade > 80"
+            }
+        }
+    },
+    "notification": {
+        "http": {
+            "url": "http://<seu_ip>:8080/Subscribe/subscribe"
+        }
+    }
+}
+
+********* Atualizações *********
+------------------------------------ 
+POST http://localhost:1026/v2/entities/<id_entidade>/attrs
+------------------------------------ 
+
+{
+    "capacidade": {
+    	"type": "Number",
+        "value": 79        
+    }
+}
+
+
